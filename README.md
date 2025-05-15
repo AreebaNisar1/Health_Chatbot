@@ -27,7 +27,7 @@ This is a web-based healthcare chatbot application built using React and Flask. 
 ### Clone the Repository
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/fawad57/Self_Train_Healthcare_Chatbot.git
+   git clone https://github.com/AreebaNisar1/Self_Train_Healthcare_Chatbot.git
    ```
 2. Navigate to the project directory:
    ```bash
